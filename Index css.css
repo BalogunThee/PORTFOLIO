@@ -1,7 +1,7 @@
 /* Oluwatosin Balogun — Portfolio stylesheet (plain CSS, no frameworks) */
 
 :root {
-  --radius: 0.75rem;
+  --radius: 0.75rem; 
   --background: #10161f;
   --foreground: #f1f4f8;
   --surface: #1a2230;
